@@ -34,7 +34,7 @@ export default function UserKnowledge() {
 
         <div className="flex flex-col max-w-3xl w-full">
           <label className="text-gray-600 dark:text-gray-400 text-xl font-semibold mb-2">
-          What financial topics are you familiar with?
+          What financial topics would you like to learn??
           </label>
           <input
             ref={languageInputRef}
